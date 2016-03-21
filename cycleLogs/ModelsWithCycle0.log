@@ -1,0 +1,864 @@
+INFO: Load new collection
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/bpmn2standard/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/bpmn2standard/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/bpmn2standard/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Accounting Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Accounting%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Accounting%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Accounting Management/Provide End of Period Arrangement Ledger Bal/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Accounting%20Management/Provide%20End%20of%20Period%20Arrangement%20Ledger%20Bal/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Accounting%20Management/Provide%20End%20of%20Period%20Arrangement%20Ledger%20Bal/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Account Processing/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Account Processing/Apply Arrangement Fee/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Account Processing/Apply Arrangement Fee/Administer Accrual Fee Reversal/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/Administer%20Accrual%20Fee%20Reversal/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/Administer%20Accrual%20Fee%20Reversal/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Negotiation/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Line of Credit Arrangement/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/Activate%20Line%20of%20Credit%20Arrangement/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/Activate%20Line%20of%20Credit%20Arrangement/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Review/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Review/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Review/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Review/Provide Past Due Consultation/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Review/Provide%20Past%20Due%20Consultation/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Arrangement%20Review/Provide%20Past%20Due%20Consultation/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Modify Customer Details/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/Modify%20Customer%20Details/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/Modify%20Customer%20Details/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Physical Security Provision/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Physical Security Provision/Monitor Physical Security/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/Monitor%20Physical%20Security/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/Monitor%20Physical%20Security/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Relationship Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Relationship%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Relationship%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Relationship Management/Review Customer Portfolio/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Relationship%20Management/Review%20Customer%20Portfolio/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Relationship%20Management/Review%20Customer%20Portfolio/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Risk Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Risk%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process%20View/Risk%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Services/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Services/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Services/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Channel Set Up/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Channel Set Up/Compensation Plan Establishment/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Intermediary Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Intermediary%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Intermediary%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Channel Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Channel Management/Channel Set Up/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Channel Management/Channel Set Up/Compensation Plan Establishment/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Claims Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/CRM/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/CRM/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/CRM/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Enterprise Resource Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Enterprise%20Resource%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Enterprise%20Resource%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Financial Transaction/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Financial%20Transaction/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Financial%20Transaction/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/FSA Administration/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Investment Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Investment%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Investment%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Provider Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process%20View/Provider%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process%20View/Provider%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/pietschEtAl/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/pietschEtAl/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/pietschEtAl/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/ComplexCase1/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/ComplexCase1/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/ComplexCase1/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/ComplexWithSubprocesses/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/ComplexWithSubprocesses/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/ComplexWithSubprocesses/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycleException/Activate Line of Credit Arrangement.bpmnThe prefix 'bpmn6' is not valid.
+java.lang.IllegalArgumentException: The prefix 'bpmn6' is not valid.
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHelper.isTargetNamespace(Bpmn2ResourceImpl.java:324)
+	at org.eclipse.bpmn2.util.QNameURIHandler.convertQNameToUri(QNameURIHandler.java:71)
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHandler.setValueFromId(Bpmn2ResourceImpl.java:221)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2755)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMLHandler.handleObjectAttribs(SAXXMLHandler.java:77)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:2229)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFeatureType(XMLHandler.java:2195)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2071)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1850)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1030)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1008)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:719)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1344)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2787)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1297)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycleException/Provide Deposit Arrangement Offer.bpmnThe prefix 'bpmn4' is not valid.
+java.lang.IllegalArgumentException: The prefix 'bpmn4' is not valid.
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHelper.isTargetNamespace(Bpmn2ResourceImpl.java:324)
+	at org.eclipse.bpmn2.util.QNameURIHandler.convertQNameToUri(QNameURIHandler.java:71)
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHandler.setValueFromId(Bpmn2ResourceImpl.java:221)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2755)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMLHandler.handleObjectAttribs(SAXXMLHandler.java:77)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:2229)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFeatureType(XMLHandler.java:2195)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2071)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1850)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1030)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1008)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:719)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1344)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2787)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1297)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycleException/Provide Past Due Consultation.bpmnThe prefix 'bpmn4' is not valid.
+java.lang.IllegalArgumentException: The prefix 'bpmn4' is not valid.
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHelper.isTargetNamespace(Bpmn2ResourceImpl.java:324)
+	at org.eclipse.bpmn2.util.QNameURIHandler.convertQNameToUri(QNameURIHandler.java:71)
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHandler.setValueFromId(Bpmn2ResourceImpl.java:221)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2755)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMLHandler.handleObjectAttribs(SAXXMLHandler.java:77)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:2229)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFeatureType(XMLHandler.java:2195)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2071)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1850)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1030)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1008)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:719)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1344)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2787)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1297)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycleException/Record Involved Party Details.bpmnThe prefix 'bpmn5' is not valid.
+java.lang.IllegalArgumentException: The prefix 'bpmn5' is not valid.
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHelper.isTargetNamespace(Bpmn2ResourceImpl.java:324)
+	at org.eclipse.bpmn2.util.QNameURIHandler.convertQNameToUri(QNameURIHandler.java:71)
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHandler.setValueFromId(Bpmn2ResourceImpl.java:221)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2755)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMLHandler.handleObjectAttribs(SAXXMLHandler.java:77)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:2229)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFeatureType(XMLHandler.java:2195)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2071)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1850)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1030)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1008)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:719)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1344)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2787)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1297)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycles/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycles/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycles/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cyclesTestCase2/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cyclesTestCase2/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cyclesTestCase2/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycleTest1/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycleTest1/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/cycleTest1/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case1/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case1/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case1/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/Administer Savings Disbursement.bpmnThe prefix 'bpmn4' is not valid.
+java.lang.IllegalArgumentException: The prefix 'bpmn4' is not valid.
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHelper.isTargetNamespace(Bpmn2ResourceImpl.java:324)
+	at org.eclipse.bpmn2.util.QNameURIHandler.convertQNameToUri(QNameURIHandler.java:71)
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHandler.setValueFromId(Bpmn2ResourceImpl.java:221)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2755)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMLHandler.handleObjectAttribs(SAXXMLHandler.java:77)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:2229)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFeatureType(XMLHandler.java:2195)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2071)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1850)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1030)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1008)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:719)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1344)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2787)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1297)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/bpmn2FixerNew.pyCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/bpmn2FixerNew.py'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/bpmn2FixerNew.py'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/untitled folder/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/untitled%20folder/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/untitled%20folder/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/untitled folder/untitled folder/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/untitled%20folder/untitled%20folder/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case2original/untitled%20folder/untitled%20folder/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case3/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case3/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case3/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case3/Administer Savings Disbursement.bpmnThe prefix 'bpmn4' is not valid.
+java.lang.IllegalArgumentException: The prefix 'bpmn4' is not valid.
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHelper.isTargetNamespace(Bpmn2ResourceImpl.java:324)
+	at org.eclipse.bpmn2.util.QNameURIHandler.convertQNameToUri(QNameURIHandler.java:71)
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHandler.setValueFromId(Bpmn2ResourceImpl.java:221)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2755)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMLHandler.handleObjectAttribs(SAXXMLHandler.java:77)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:2229)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFeatureType(XMLHandler.java:2195)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2071)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1850)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1030)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1008)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:719)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1344)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2787)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1297)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case5/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case5/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case5/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case5/Administer Provider Agreement Termination.bpmnThe prefix 'bpmn5' is not valid.
+java.lang.IllegalArgumentException: The prefix 'bpmn5' is not valid.
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHelper.isTargetNamespace(Bpmn2ResourceImpl.java:324)
+	at org.eclipse.bpmn2.util.QNameURIHandler.convertQNameToUri(QNameURIHandler.java:71)
+	at org.eclipse.bpmn2.util.Bpmn2ResourceImpl$BpmnXmlHandler.setValueFromId(Bpmn2ResourceImpl.java:221)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2755)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMLHandler.handleObjectAttribs(SAXXMLHandler.java:77)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:2229)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFeatureType(XMLHandler.java:2195)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:2071)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1850)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:1030)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:1008)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:719)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(AbstractXMLDocumentParser.java:182)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1344)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2787)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:175)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:261)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1518)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1297)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:259)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:274)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:406)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case5/bpmn2FixerNew.pyCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case5/bpmn2FixerNew.py'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/IBM_test_case5/bpmn2FixerNew.py'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/modelsFromPython/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/modelsFromPython/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/modelsFromPython/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/modelsFromPython/bpmn2FixerNew.pyCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/modelsFromPython/bpmn2FixerNew.py'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/testCases/modelsFromPython/bpmn2FixerNew.py'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.CycleTest.main(CycleTest.java:32)
+
+INFO: --------------------------------Models With Cycles--------------------------------
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Policy Modification/Administer Policy Split.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer Long Term Care Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Accept FSA.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Acquire Customer.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Claim Recording/Record First Notice Of Loss In Auto Insurance.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Policy Modification/Administer Policy Split.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Underwriting Management/Underwrite LOB Health Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Policy Modification/Convert Policy Under Scheme To Individual Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Acquire Customer Via Call Centre.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For Group Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Product Management/Develop New Market Offering/Define Product Details/Define Product Details.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Product Portfolio Management/Product Life Cycle Management/Implement Product Launch.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Claim Recording/Record Homeowner Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer LOB Life Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record LOB P And C Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Policy Modification/Convert Policy Under Scheme To Individual Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Claim Recording/Record Automobile Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Channel Set Up/Interm Agmt Spec Design/Define Interm Agmt Spec.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/CRM/Develop Agreement Opportunity.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Automobile Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Underwriting Management/Underwrite Agreement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Relationship Management/Generate Cross Selling Lead/Generate Cross Selling Lead.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Product Portfolio Management/Product Development/Customised Scheme Development/Create Customised Scheme.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Underwriting Management/Underwrite LOB P And C Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Product Portfolio Management/Product Life Cycle Management/Prepare Product Launch.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Product Portfolio Management/Product Development Planning/Develop Product Proposal.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Provider Management/Provider Service Delivery/Request Provider Service.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Financial Transaction/Billing And Collection/Operate Direct Payment Collection.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Risk Management/Provide Business Process Control/Provide Business Process Control.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Financial Market Offering Management/Enact Financial Market Offering Transaction/Enact Financial Market Offering Transaction.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Acquire Customer Via Call Centre.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Provider Management/Provider Establishment/Acquire Provider.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Underwriting Management/Underwrite LOB P And C Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Product Portfolio Management/Product Development/Customised Scheme Development/Create Customised Scheme.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Pension Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/FSA Information/Enquire Account Balance.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Policy Transaction/Provide Loan Disbursement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Financial Market Offering Management/Administer Customer Investment Allocation/Administer Customer Investment Allocation.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Group Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Reporting/Provide Arrangement Balance Calculation/Identify Fee Chargeable Activity/Identify Fee Chargeable Activity.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Risk Management/Provide Operational Risk Capital Allocation/Provide Operational Risk Capital Allocation.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/FSA Information/Enquire Account Balance.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Channel Set Up/Compensation Plan Establishment/Define Intermediary Compensation.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Channel Management/Channel Set Up/Compensation Plan Establishment/Define Intermediary Compensation.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Administer Disaster Recovery Plan/Administer Disaster Recovery Plan.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Homeowner Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Financial Resource Management/Prepare Income Statement/Prepare Income Statement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Withdrawal/Administer Withdrawal.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Acquire Customer For Annuity.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Savings.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Claim Recording/Record LOB Life Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Pension Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Homeowner Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Acquire Customer For LOB Life Policy Via Agent.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/CRM/Develop Agreement Opportunity.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Provider Management/Provider Agreement Administration/Record Provider Agreement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Product Portfolio Management/Product Life Cycle Management/Prepare Product Launch.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Underwriting Management/Underwrite Agreement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Policy Modification/Administer Policy Merge.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Group Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Campaign Management/Develop Market Offering Campaign/Develop Market Offering Campaign.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer Medical Expense Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Product Portfolio Management/Product Development Planning/Develop Product Proposal.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Relationship Management/Create Customer Investment Strategy/Create Customer Investment Strategy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Product Portfolio Management/Develop Product.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Claim Recording/Record Homeowner Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/CRM/Needs Analysis/Provide Needs Analysis.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Positive Pay/Administer Positive Pay.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Claim Recording/Record Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Marketing/Marketing And Promotion Management/Campaign Management/Develop Product Campaign.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/bpmn2standard/triso - Order Process for Pizza V4.bpmn2
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Claim Recording/Record First Notice Of Loss In Auto Insurance.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Product Portfolio Management/Product Development/Customised Scheme Development/Define Customised Scheme.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Claim Recording/Record Automobile Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Provider Management/Provider Agreement Administration/Record Provider Agreement Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer Group Medical Expense Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer Annuity Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Provider Management/Provider Service Delivery/Request Provider Service.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer Automobile Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Acquire Customer.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Acquire Customer For Annuity.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Accept FSA.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Marketing/Marketing And Promotion Management/Campaign Management/Develop Product Campaign.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/CRM/Needs Analysis/Provide Needs Analysis.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/CRM/Suspect Duplicate Processing/Administer Party Consolidation.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Claim Recording/Record LOB Life Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Product Monitoring/Request Market Change Finance Service Review/Request Market Change Finance Service Review.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer Medical Expense Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Reinsurance Management/Negotiate Reinsurance Treaty Renewal.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer Assistance Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/pietschEtAl/B_07.modified_ignore_has_cycle.bpmn2
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Policy Modification/Administer Policy Merge.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Product Management/Prepare Market Offering Launch/Define Market Offering Launch Details/Define Market Offering Launch Details.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer Assistance Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Benefit Offering/Provide Benefit Offering Estimate.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/pietschEtAl/B_07.modified.bpmn2
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/pietschEtAl/Email Voting 2.bpmn2
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer Automobile Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Financial Transaction/Billing And Collection/Operate Direct Payment Collection.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Travel Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Provider Management/Provider Agreement Specification Design/Define Provider Agmt Spec.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Group Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Channel Set Up/Intermediary Establishment/Administer Intermediary Professional Liability.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Intermediary Management/Intermediary Agreement Administration/Move Intermediary Portfolio.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Policy Modification/Administer Policy Rewrite.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Product Portfolio Management/Product Development/Define Product.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Policy Transaction/Provide Loan Disbursement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Underwriting Management/Underwrite Group Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record LOB Life Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Provider Management/Provider Agreement Administration/Record Provider Agreement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Channel Management/Channel Set Up/Interm Agmt Spec Design/Define Interm Agmt Spec.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Offer/Prepare Information Memorandum/Prepare Information Memorandum.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Travel Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/CRM/Suspect Duplicate Processing/Administer Duplicate Parties Merge.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Enterprise Resource Management/Enterprise Risk Management/Risk Policy Management/Record Risk Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Underwriting Management/Underwrite Group Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For Policy Under Scheme.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Provider Management/Provider Agreement Specification Design/Define Provider Agmt Spec.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Product Monitoring/Provide Interest Rate Change/Provide Interest Rate Change.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/CRM/Suspect Duplicate Processing/Administer Party Consolidation.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record LOB P And C Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer Long Term Care Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Product Portfolio Management/Product Development/Customised Scheme Development/Define Customised Scheme.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Automobile Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Product Portfolio Management/Product Life Cycle Management/Implement Product Launch.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Underwriting Management/Underwrite LOB Health Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Group Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Claim Investigation/Record Claim Analysis.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Product Portfolio Management/Product Development/Define Product.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Benefit Offering/Provide Benefit Offering Estimate.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Specialized Loan Disbursement/Provide Specialized Loan Disbursement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Claim Recovery/Administer Outgoing Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Policy Modification/Administer Policy Rewrite.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Reinsurance Management/Negotiate Reinsurance Treaty Renewal.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Underwriting Management/Underwrite LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/CRM/Suspect Duplicate Processing/Administer Duplicate Parties Merge.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Product Portfolio Management/Develop Product.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Provider Management/Provider Agreement Administration/Record Provider Agreement Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Underwriting Management/Underwrite LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Policy Modification/Provide Loan On LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For Group Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Agreement Recording/Record LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Intermediary Management/Intermediary Agreement Administration/Record Intermediary Agreement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Policy Modification/Provide Loan On LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer Annuity Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Administer LOB Life Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Acquire Customer For LOB Life Policy Via Agent.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/bpmn2standard/Email Voting 2.bpmn2
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Claim Recovery/Administer Outgoing Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/pietschEtAl/triso - Order Process for Pizza V4.bpmn2
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record Savings.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Claim Investigation/Record Claim Analysis.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Reverse Positive Pay/Administer Reverse Positive Pay.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/Policy Management/Policy Transaction/Administer Policy Renewal.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Policy Transaction/Administer Policy Renewal.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Claims Management/Claim Recording/Record Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/Administer Group Medical Expense Claim.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Collateral Management/Review Arrangement Safeguarded Collateral/Review Arrangement Safeguarded Collateral.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For LOB Life Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For LOB P And C Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/IBM_Models_Transformed/Process View/Arrangement Review/Review Loan Arrangement/Review Loan Arrangement.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For LOB P And C Policy.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/FSA Administration/Policy Management/Agreement Recording/Record LOB Life Policy Request.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Customer Acquisition/Policy Quotation/Provide Quote For Policy Under Scheme.bpmn
+INFO: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Provider Management/Provider Establishment/Acquire Provider.bpmn
+INFO: ----------------------------------------------------------------------------------

@@ -1,0 +1,984 @@
+INFO: Load new collection
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Accounting Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Accounting%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Accounting%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Accounting Management/Provide End of Period Arrangement Ledger Bal/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Accounting%20Management/Provide%20End%20of%20Period%20Arrangement%20Ledger%20Bal/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Accounting%20Management/Provide%20End%20of%20Period%20Arrangement%20Ledger%20Bal/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/Apply Arrangement Fee/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/Apply Arrangement Fee/Administer Accrual Fee Reversal/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/Administer%20Accrual%20Fee%20Reversal/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Account%20Processing/Apply%20Arrangement%20Fee/Administer%20Accrual%20Fee%20Reversal/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Line of Credit Arrangement/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/Activate%20Line%20of%20Credit%20Arrangement/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Negotiation/Activate%20Line%20of%20Credit%20Arrangement/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Review/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Review/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Provide Past Due Consultation/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Review/Provide%20Past%20Due%20Consultation/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Arrangement%20Review/Provide%20Past%20Due%20Consultation/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Modify Customer Details/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/Modify%20Customer%20Details/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Involved%20Party%20Information%20Maintenance/Modify%20Customer%20Details/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Physical Security Provision/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Physical Security Provision/Monitor Physical Security/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/Monitor%20Physical%20Security/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Physical%20Security%20Provision/Monitor%20Physical%20Security/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Relationship Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Relationship%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Relationship%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Relationship Management/Review Customer Portfolio/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Relationship%20Management/Review%20Customer%20Portfolio/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Relationship%20Management/Review%20Customer%20Portfolio/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Risk Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Risk%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process%20View/Risk%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Services/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Services/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Services/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process View/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Channel Set Up/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Channel Set Up/Compensation Plan Establishment/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Channel Management/Intermediary Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Intermediary%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Channel%20Management/Intermediary%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process View/Claims Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process View/FSA Administration/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_APM/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Channel Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Channel Management/Channel Set Up/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Channel Management/Channel Set Up/Compensation Plan Establishment/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Channel%20Management/Channel%20Set%20Up/Compensation%20Plan%20Establishment/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Claims Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Claims%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/CRM/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/CRM/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/CRM/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Enterprise Resource Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Enterprise%20Resource%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Enterprise%20Resource%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Financial Transaction/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Financial%20Transaction/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Financial%20Transaction/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/FSA Administration/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/FSA%20Administration/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process View/Investment Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Investment%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/I_IUC/Process%20View/Investment%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/OPM/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/OPM/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/OPM/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process View/Provider Management/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process%20View/Provider%20Management/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/InsuranceProcessandServiceModels_transformed/OPM/I_OPM/Process%20View/Provider%20Management/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+SEVERE: There was a problem with file: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/pietschEtAl/.DS_StoreCannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/pietschEtAl/.DS_Store'; a registered resource factory is needed
+java.lang.RuntimeException: Cannot create a resource for 'file:/Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/pietschEtAl/.DS_Store'; a registered resource factory is needed
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:403)
+	at de.unistuttgart.iaas.bpmn.model.ModelInstance.<init>(ModelInstance.java:50)
+	at de.unistuttgart.iaas.bpmn.collection.BpmnCollectionSingleton.loadCollectionFromFiles(BpmnCollectionSingleton.java:57)
+	at de.unistuttgart.iaas.apps.BPMNCompareMain.main(BPMNCompareMain.java:36)
+
+INFO: I will compare: 1806 models
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Collapsed SubProcess.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Email Voting 2.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Expanded SubProcess.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Incident Management - coll chor.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Incident Management level 1.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Incident Management(Account Manager Only).bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Incident Management(Whole Collab).bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Laneset.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/My_01.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/My_02.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/My_03.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/My_04.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Nobel Prize Process.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Pool.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Process.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Procurement Processes with Error Handling - Stencil Trisotech 3 pages.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/triso - Order Process for Pizza V4.bpmn2
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Global Items/Global Business Terms.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Global Items/Global Definitions.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Global Items/Global Maps.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Accounting Management/Provide End of Period Arrangement Ledger Bal/Provide End of Period Arrangement Ledger Bal.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Accounting Management/Provide Front Office Balancing/Apply Accounting Entry Details/Apply Accounting Entry Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Accounting Management/Provide Front Office Balancing/Provide Front Office Balancing.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/Administer Business Account Closure/Administer Business Account Closure.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/Apply Arrangement Fee/Administer Accrual Fee Reversal/Administer Accrual Fee Reversal.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/Provide Arrangement Fee Reimbursement/Provide Arrangement Fee Reimbursement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/Provide Arrangement Interest Modification/Provide Arrangement Interest Modification.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Account Processing/Provide Business Account Escheat/Provide Business Account Escheat.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Accept Stop Payment Request/Accept Stop Payment Request.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Accounts Receivable Invoice Issuance/Administer Accounts Receivable Invoice Issuance.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Accounts Receivable Reconciliation/Administer Accounts Receivable Reconciliation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Arrangement Details Provision/Administer Arrangement Details Provision.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Arrangement Details Provision/Send Involved Party Communication/Send Involved Party Communication.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Arrangement Termination/Calculate Accrued Interest/Calculate Accrued Interest.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Arrangement Termination/Determine Terminal Principal Balance/Determine Terminal Principal Balance.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Export Doc Collection Presentation/Administer Export Doc Collection Presentation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Export Doc Credit Presentation/Administer Export Doc Credit Presentation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Import Doc Collection Presentation/Administer Import Doc Collection Presentation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Import Doc Credit Presentation/Administer Import Doc Credit Presentation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Positive Pay/Administer Positive Pay.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Positive Pay/Analyze High Value Transaction/Analyze High Value Transaction.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Positive Pay/Enact Positive Pay/Issue Positive Pay Instruction/Issue Positive Pay Instruction.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Administer Reverse Positive Pay/Administer Reverse Positive Pay.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Modify Arrangement Service Frequency/Modify Arrangement Service Frequency.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Loan Disbursement/Administer Funds Availability/Administer Funds Availability.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Loan Disbursement/Allocate Capital/Allocate Capital.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Loan Disbursement/Provide Loan Disbursement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Maturity Prenotification/Select Product Condition/Select Product Condition.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Maturity Prenotification/Test Product Status/Test Product Status.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Paid Check Image/Provide Paid Check Image.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Repayment Communication Response/Provide Repayment Communication Response.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Specialized Loan Disbursement/Provide Specialized Loan Disbursement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Provide Specialized Loan Disbursement/Request Inpayment/Request Inpayment.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Schedule Specialized Loan Disbursement/Notify Customer/Notify Customer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Schedule Specialized Loan Disbursement/Notify Participants/Notify Participants.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Administration/Schedule Specialized Loan Disbursement/Schedule Specialized Loan Disbursement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Banking Product Arrangement/Activate Banking Product Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Banking Product Arrangement/Apply Customer Identification Policy/Apply Customer Identification Policy.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Banking Product Arrangement/Establish Arrangement/Establish Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Deposit Arrangement/Activate Deposit Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Deposit Arrangement/Establish Deposit Arrangement/Establish Deposit Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Export Documentary Credit Arrangement/Activate Export Documentary Credit Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate FM Product Arrangement/Activate Financial Market Arrangement/Activate Financial Market Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate FM Product Arrangement/Activate FM Product Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate FM Product Arrangement/Generate Activation Communication/Generate Activation Communication.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate FM Product Arrangement/Record Relationship Manager/Record Relationship Manager.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Import Documentary Credit Arrangement/Activate Import Documentary Credit Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Line of Credit Arrangement/Activate Line of Credit Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Line of Credit Arrangement/Establish Line of Credit Arrangement/Establish Line of Credit Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Loan Arrangement/Activate Loan Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Loan Arrangement/Establish Loan Arrangement/Establish Loan Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Specialized Lending PD Arrangement/Activate Specialized Lending PD Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Specialized Lending PD Arrangement/Enact Closing Meeting/Enact Closing Meeting.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Specialized Lending PD Arrangement/Prepare Mortgage Activation/Prepare Mortgage Activation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Activate Transfer Service Arrangement/Activate Transfer Service Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Establish Custodian Relationship/Establish Custodian Relationship.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Establish Custodian Relationship/Record Custodian Details/Record Custodian Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Arrangement Proposal/Administer Customer Details/Administer Customer Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Arrangement Proposal/Administer Product Selection/Notify Product Owner/Notify Product Owner.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Arrangement Proposal/Administer Product Selection/Select Product Objectives/Select Product Objectives.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Arrangement Proposal/Provide Arrangement Proposal.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Banking Product Arrangement Offer/Apply Product Policy/Apply Product Policy.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Banking Product Arrangement Offer/Provide Banking Product Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Deposit Arrangement Offer/Provide Deposit Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Export Doc Credit Arrangement Offer/Provide Export Doc Credit Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide FM Product Arrangement Offer/Analyze Risk/Analyze Risk.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide FM Product Arrangement Offer/Analyze Risk/Analyze Trade Finance Risk/Analyze Trade Finance Risk.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide FM Product Arrangement Offer/Provide FM Product Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide FM Product Arrangement Offer/Request Risk Assessment Details/Request Risk Assessment Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide FM Product Arrangement Offer/Verify Product Arrangement Selection/Verify Product Arrangement Selection.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Import Doc Credit Arrangement Offer/Provide Import Doc Credit Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Line of Credit Arrangement Offer/Provide Line of Credit Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Loan Arrangement Offer/Provide Loan Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Specialized Lending PD AR Offer/Provide Specialized Lending PD AR Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Syndication Offer/Generate Declined Service Communication/Generate Declined Service Communication.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Syndication Offer/Provide Syndication Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Syndication Proposal/Prepare Solicitation Packet/Prepare Solicitation Packet.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Syndication Proposal/Provide Syndication Proposal.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Syndication Proposal/Select Candidate Participant/Select Candidate Participant.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Provide Transfer Service Arrangement Offer/Provide Transfer Service Arrangement Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Review Offered Arrangement Status/Review Offered Arrangement Status.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Negotiation/Review Proposed Arrangement Status/Review Proposed Arrangement Status.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Reporting/Provide Arrangement Balance Calculation/Identify Fee Chargeable Activity/Identify Fee Chargeable Activity.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Reporting/Provide Arrangement Balance Calculation/Send Risk Report/Send Risk Report.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Administer Legal Collection/Administer Legal Collection.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Modify Dormant Business Account Access/Modify Dormant Business Account Access.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Modify Dormant Business Account Access/Retrieve Business Account Details/Retrieve Business Account Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Provide Past Due Consultation/Consult Customer/Consult Customer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Provide Past Due Consultation/Provide Past Due Consultation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Provide Past Due Interview/Provide Past Due Interview.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Review Loan Arrangement/Review Loan Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Arrangement Review/Review Product Arrangement/Review Product Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Campaign Management/Develop Market Offering Campaign/Develop Market Offering Campaign.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Collateral Management/Acquire Security/Acquire Security.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Collateral Management/Acquire Security/Generate Collateral Acknowledgement/Generate Collateral Acknowledgement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Collateral Management/Review Arrangement Safeguarded Collateral/Review Arrangement Safeguarded Collateral.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Collateral Management/Review Sample Safeguarded Collateral/Review Sample Safeguarded Collateral.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Administer Dispute Resolution/Administer Dispute Resolution.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Administer Dispute Resolution/Retrieve Dispute Details/Retrieve Dispute Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Administer Dispute Resolution/Waive Transaction Accrued Interest/Waive Transaction Accrued Interest.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Provide Query Response/Issue Query Response/Issue Query Response.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Provide Query Response/Notify Query Resolution Owner/Notify Query Resolution Owner.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Provide Query Response/Provide Query Response.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Provide Query Response/Record Query Details/Record Query Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Record Transaction Dispute/Record Transaction Dispute.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Review Communication Response Status/Review Communication Response Status.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Communication Management/Supervise Query Resolution/Supervise Query Resolution.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Corporate Action Management/Administer Corporate Action Announcement/Administer Corporate Action Announcement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Corporate Action Management/Administer Corporate Action Announcement/Generate Stock Loan Recall/Generate Stock Loan Recall.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Corporate Action Management/Administer Corporate Action Announcement/Send Corporate Action Claim/Send Corporate Action Claim.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Corporate Action Management/Administer Corporate Action Election/Notify Corporate Action Election/Notify Corporate Action Election.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Corporate Action Management/Review Corporate Action Benefit Receipt/Request Asset Transfer/Request Asset Transfer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Administer Customer Investment Allocation/Administer Customer Investment Allocation.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Administer Customer Investment Allocation/Schedule Asset Transfer/Schedule Asset Transfer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Administer Customer Investment Settlement/Administer Customer Investment Settlement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Enact Financial Market Offering Transaction/Enact Financial Market Offering Transaction.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Provide FM Position Reconciliation/Send FM Position Details/Send FM Position Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Review FMO Portfolio Quality/Notify Equity Portfolio Manager/Notify Equity Portfolio Manager.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Settle Financial Market Offering Transaction/Notify Custodian/Notify Custodian.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Settle Financial Market Offering Transaction/Notify Depository/Notify Depository.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Settle Financial Market Offering Transaction/Notify Nostro/Notify Nostro.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Market Offering Management/Settle Financial Market Offering Transaction/Settle Financial Market Offering Transaction.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Activate Asset Securitization Offer/Activate Asset Securitization Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Administer Asset Portfolio Mix/Administer Asset Portfolio Mix.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Administer Asset Portfolio Mix/Allocate Asset Mix Funds/Allocate Asset Mix Funds.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Administer Investment Redemption/Administer Investment Redemption.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Administer Liability Portfolio Mix/Administer Liability Portfolio Mix.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Administer Liability Portfolio Mix/Allocate Liability Mix Funds/Allocate Liability Mix Funds.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Administer Proxy Voting Service/Administer Proxy Voting Service.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Administer Withholding Tax Service/Administer Withholding Tax Service.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Analyze Balance Sheet Position/Analyze Balance Sheet Position.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Establish Investment Policy/Allocate Investment Funds/Allocate Investment Funds.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Establish Investment Policy/Establish Investment Policy.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Maintain Liquidity/Maintain Liquidity.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Monitor Capital Adequacy Limit/Monitor Capital Adequacy Limit.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Monitor Settlement Position/Monitor Settlement Position.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Prepare Income Statement/Prepare Income Statement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Offer/Offer Sale Arrangement/Offer Sale Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Offer/Prepare Information Memorandum/Prepare Information Memorandum.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Offer/Provide Asset Securitization Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Proposal/Define Securitization Condition/Define Securitization Condition.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Proposal/Define Securitization Structure/Define Securitization Structure.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Proposal/Define Special IP Condition/Define Special IP Condition.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Proposal/Provide Asset Securitization Proposal.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Asset Securitization Proposal/Verify Collateral Details/Verify Collateral Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Provide Secondary Market Offer/Provide Secondary Market Offer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Review Asset Mix/Review Asset Mix.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Review Capital Structure/Report Capital Restoration Plan/Report Capital Restoration Plan.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Review Capital Structure/Review Capital Structure.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Resource Management/Review Liability Mix/Review Liability Mix.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Acquire Clearing Item Deposit/Acquire Clearing Item Deposit.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Account Transfer/Administer Account Transfer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Cash Pool/Administer Cash Pool.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Cash Pool/Apply Notional Pooling/Apply Notional Pooling.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Cash Pool/Generate Balance Report Communication/Generate Balance Report Communication.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Cash Pool/Generate Interim Balance Communication/Generate Interim Balance Communication.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Deposit/Administer Deposit.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Deposit/Enact Deposit/Enact Deposit.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Deposit/Generate Transaction Acknowledgement/Generate Transaction Acknowledgement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Direct Debit Collection/Send Payment Status Message/Send Payment Status Message.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Direct Debit Instruction/Calculate Payment Processing Fee/Calculate Payment Processing Fee.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Direct Debit Instruction/Calculate Payment Service Fee/Calculate Payment Service Fee.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Inpayment/Administer Inpayment.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Interbank Inpayment/Administer Interbank Inpayment.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Outpayment/Administer Outpayment.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Payment Reversal/Administer Payment Reversal.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Referral Item/Administer Referral Item.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Referral Item/Retrieve Referral Item Details/Retrieve Referral Item Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Repayment Collection/Generate Repayment Acknowledgement/Generate Repayment Acknowledgement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Specialized Ln Repayment Collection/Administer Specialized Ln Repayment Collection.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Standing Order Mandate/Administer Standing Order Mandate.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Transfer Outpayment/Administer Transfer Outpayment.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Administer Withdrawal/Administer Withdrawal.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Generate Mandate Communication/Generate Mandate Communication.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Financial Transaction Processing/Settle Payment Arrangement/Settle Payment Arrangement.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Deliver Training Program/Deliver Training Program.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Deliver Training Program/Notify SME/Notify SME.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Deliver Training Program/Notify Training Program Attendees/Notify Training Program Attendees.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Deliver Training Program/Notify Training Program Trainer/Notify Training Program Trainer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Develop Training Program/Develop Training Program.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Establish Human Resource Policy/Establish Human Resource Policy.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Report Employee Gift/Report Employee Gift.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Report Employee Gift/Send Gift Report/Send Gift Report.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Review Employee Performance/Review Employee Performance.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Review Training Program/Request Attendee Debriefing/Request Attendee Debriefing.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Human Resource Management/Review Training Program/Review Training Program.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Administer Disaster Recovery Plan/Administer Disaster Recovery Plan.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Dispose of Real Property/Dispose of Real Property.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Dispose of Resource Item/Dispose of Fixed Asset Resource Item/Dispose of Fixed Asset Resource Item.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Dispose of Resource Item/Dispose of Resource Item.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Integrate Organization/Integrate Organization.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Integrate Organization/Record Org Unit Details/Record Org Unit Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Infrastructure Resource Management/Integrate Organization/Record Organization Details/Record Organization Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Administer Involved Party Information Access/Administer Involved Party Information Access.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Administer IP OnBoarding/Administer IP OnBoarding.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Establish Customer/Establish Customer.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Establish Customer/Record Reported Information Details/Record Reported Information Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Establish Customer/Retrieve Reported Information Details/Retrieve Reported Information Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Establish Involved Party/Establish Involved Party.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Evaluate Involved Party Details/Evaluate Involved Party Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Generate Investment Counterparty Communication/Generate Investment Counterparty Communication.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Modify Customer Details/Modify Customer Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Modify Customer Details/Record Involved Party Details/Record Involved Party Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Modify Involved Party Details/Modify Involved Party Details.bpmn
+INFO: #RPF found: 0
+INFO: Model A: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/bpmn2standard/Call Activity.bpmn2
+INFO: Model B: /Users/skourama/Documents/eclipse_workspaces/processdiscovery/BPMNCompare/../BpmnCollection2/IBM_Models_Transformed/Process View/Involved Party Information Maintenance/Provide Involved Party Information/Provide Involved Party Information.bpmn
